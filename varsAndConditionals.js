@@ -53,3 +53,5 @@ while (obiwanHealth > 0) {
         console.log("At least we don't have to deal with Rey")
     }
 }
+
+console.log("This was a good fight. Kinda.");
